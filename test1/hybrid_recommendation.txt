@@ -1,0 +1,13 @@
+HYBRID MODEL TRAINING RESULTS
+==================================================
+
+Split         : 80% Train / 20% Test
+Epochs        : 50
+Models Fused  : buffalo_l + buffalo_m
+
+buffalo_l EER : 0.075408
+buffalo_m EER : 0.263636
+Hybrid    EER : 0.241958
+
+[INFO] Individual model 'buffalo_l' performs better.
+-> Use 'buffalo_l' for UIDAI submission.

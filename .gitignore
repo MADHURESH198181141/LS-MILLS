@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.obj
+*.o
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets
+.env
+.streamlit/secrets.toml
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large Model weights (auto-downloaded by enhancement.py if missing)
+weights/*.pth
+!weights/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db

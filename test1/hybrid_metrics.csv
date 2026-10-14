@@ -1,0 +1,4 @@
+Model,EER,TAR@FAR=1%,TAR@FAR=0.1%,Type,FMR10,FMR100,FMR1000,FMR10000
+buffalo_l,0.075408,0.738426,0.604167,Individual,,,,
+buffalo_m,0.263636,0.581019,0.483796,Individual,,,,
+Hybrid,0.241958,0.083333,0.023148,Hybrid,1.0,1.0,1.0,1.0

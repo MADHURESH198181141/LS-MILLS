@@ -1,0 +1,36 @@
+# Core
+torch==2.2.2
+torchvision==0.17.2
+numpy==1.26.4
+opencv-python==4.9.0.80
+Pillow==10.3.0
+tqdm==4.66.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+pandas==2.2.2
+
+# ONNX (CPU inference + INT8 quantization)
+onnx==1.16.0
+onnxruntime==1.17.3
+
+# InsightFace (SCRFD + GlintR100 / Antelopev2)
+insightface==0.7.3
+
+# Real-ESRGAN + CodeFormer deps
+basicsr==1.4.2
+realesrgan==0.3.0
+facexlib==0.3.0
+
+# Streamlit UI
+streamlit==1.34.0
+
+# Database
+supabase>=2.0.0
+python-dotenv>=1.0.0
+
+# FastAPI Docker submission
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+opencv-python-headless==4.9.0.80
+

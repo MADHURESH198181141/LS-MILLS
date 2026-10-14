@@ -1,0 +1,5 @@
+Model,Label,Category,Backbone,EER,FMR10,FMR100,FMR1000,FMR10000,TAR@FAR=1%,TAR@FAR=0.1%,ExtractTime_s,UIDAI_Rank
+buffalo_l,ArcFace ResNet100,High Accuracy,ResNet100,0.06561,1.0,1.0,1.0,1.0,0.805609,0.620778,31.52,1
+buffalo_m,ArcFace ResNet50,Balanced,ResNet50,0.066797,1.0,1.0,1.0,1.0,0.823045,0.655967,21.88,2
+antelopev2,Antelope v2,High Accuracy,GlintR100,0.071388,1.0,1.0,1.0,1.0,0.797323,0.620778,32.56,3
+buffalo_s,ArcFace MobileFaceNet,Lightweight,MobileFaceNet,0.126903,1.0,1.0,1.0,1.0,0.605263,0.416074,19.31,4

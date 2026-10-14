@@ -1,0 +1,12 @@
+UIDAI FACE MATCHING — MODEL RECOMMENDATION
+==================================================
+
+Best Accuracy Model    : buffalo_l
+Best Lightweight Model : buffalo_m
+
+Full Rankings (UIDAI Priority Order):
+ UIDAI_Rank      Model      Category      EER  FMR10  FMR100  FMR1000  FMR10000  ExtractTime_s
+          1  buffalo_l High Accuracy 0.065610    1.0     1.0      1.0       1.0          31.52
+          2  buffalo_m      Balanced 0.066797    1.0     1.0      1.0       1.0          21.88
+          3 antelopev2 High Accuracy 0.071388    1.0     1.0      1.0       1.0          32.56
+          4  buffalo_s   Lightweight 0.126903    1.0     1.0      1.0       1.0          19.31
